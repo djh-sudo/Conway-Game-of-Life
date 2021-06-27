@@ -23,7 +23,7 @@
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s7.png) ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s8.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s9.png)
 
 ## 震荡结构(Oscillating structure)
-
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s12.png)              ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s11.png)
 ## 移动结构(Mobile structure)
 
 ## you can try more by yourself
