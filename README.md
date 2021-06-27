@@ -25,9 +25,10 @@
 ## 震荡结构(Oscillating structure)
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s12.png)              ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s11.png)
 ## 移动结构(Mobile structure)
-
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s13.png)
 ## you can try more by yourself
-
+### * 既可以使用旁边的案例，也可以使用鼠标自主绘制想要的图形
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/demo.gif)
 ## reference
 [混乱博物馆](https://www.bilibili.com/video/BV1zx41187v3/?spm_id_from=333.788.recommend_more_video.-1)
 ## For more
