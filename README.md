@@ -16,4 +16,8 @@
 * * * 如果一个回合结束时，生命周围有2-3个生命，则它保持原样
 
 ## 稳定结构(Stable structure)
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s1.png)   ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s2.png)   ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s3.png)
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s4.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s5.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s6.png)
+![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s7.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s8.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s9.png)
 
+## 震荡结构(Oscillating structure)
