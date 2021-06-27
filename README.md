@@ -23,3 +23,12 @@
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s7.png) ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s8.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s9.png)
 
 ## 震荡结构(Oscillating structure)
+
+## 移动结构(Mobile structure)
+
+## you can try more by yourself
+
+## reference
+[混乱博物馆](https://www.bilibili.com/video/BV1zx41187v3/?spm_id_from=333.788.recommend_more_video.-1)
+## For more
+### 如果我们的计算机的每一个寄存器的每一位都可以看做生命游戏里的一个个体,那么....
