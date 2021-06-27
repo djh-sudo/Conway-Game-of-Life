@@ -17,6 +17,7 @@
 
 ## 稳定结构(Stable structure)
 部分稳定结构
+
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s1.png)  ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s2.png)
 
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s4.png) ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s5.png)
@@ -25,9 +26,11 @@
 
 ## 震荡结构(Oscillating structure)
 部分震荡结构，红绿灯和脉冲星
+
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s12.png)              ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s11.png)
 ## 移动结构(Mobile structure)
 部分移动结构，滑翔机枪，连续输出子弹
+
 ![](https://github.com/djh-sudo/Conway-Game-of-Life/blob/main/src/s13.png)
 ## you can try more by yourself
 ### * 既可以使用旁边的案例，也可以使用鼠标自主绘制想要的图形
